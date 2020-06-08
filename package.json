@@ -1,0 +1,36 @@
+{
+  "name": "cinyear-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "cinyear-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/cinyearchan/cinyear-pages#readme",
+  "bugs": {
+    "url": "https://github.com/cinyearchan/cinyear-pages/issues"
+  },
+  "license": "MIT",
+  "author": "cinyearchan <cinyearchan@gmail.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinyearchan/cinyear-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
