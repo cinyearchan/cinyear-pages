@@ -1,6 +1,6 @@
 {
   "name": "cinyear-pages",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "static web app workflow",
   "keywords": [
     "cinyear-pages",
@@ -17,6 +17,7 @@
     "bin"
   ],
   "main": "lib/index.js",
+  "bin": "bin/cinyear-pages.js",
   "directories": {
     "lib": "lib"
   },
